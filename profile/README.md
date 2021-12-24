@@ -1,4 +1,4 @@
-![TECKdigital](../assets/Logo.svg)
+![TECKdigital](/assets/Logo.svg)
 
 
 - [Website](http://teckdigital.de)
